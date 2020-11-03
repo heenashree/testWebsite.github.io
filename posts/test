@@ -1,1 +1,3 @@
 this is post
+
+<img src="{{https://testWebsite.github.io}}/images/photu1.jpeg" style="display: block; margin: auto;" />
